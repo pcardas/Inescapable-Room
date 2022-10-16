@@ -1,4 +1,4 @@
-# Rendeiro Inescapable Room
+# Inescapable Room
 
 <img width="1280" alt="Main Screen" src="https://user-images.githubusercontent.com/82419057/196063654-08dcc46a-f669-4850-934c-49b83cb08f09.png">
 
