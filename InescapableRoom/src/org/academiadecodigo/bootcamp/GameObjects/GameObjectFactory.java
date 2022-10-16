@@ -4,10 +4,7 @@ import org.academiadecodigo.bootcamp.Grid.Grid;
 import org.academiadecodigo.bootcamp.GameObjects.Frame;
 
 public class GameObjectFactory {
-    // SPAWNING CHANCES:
-    // - Handcuffs: 20%
-    // - Frame: 80%
-
+    
     private Grid grid;
     private GameObject gameObject;
 
